@@ -58,7 +58,8 @@ label-studio
 ```
 
 - Follow the on-screen instructions to label the dataset.
-- After annotating the images make sure to extract the zip file as YOLO format only . 
+- After annotating the images make sure to extract the zip file as YOLO format only .
+- The dataset I have provided is annotated you can use it to check the model too . 
 
 ### Step 5: Run `create_data_yaml.py`
 
